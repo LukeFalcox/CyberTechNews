@@ -1,5 +1,5 @@
 function Home(params) {
-    return <h1>MY DAD IS MY HERO</h1>
+    return <h1>Eae como foi seu final de semana</h1>
 }
 
 export default Home
